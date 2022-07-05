@@ -1,0 +1,9 @@
+{
+  "name": "first-ndejs",
+  "version": "0.0.0",
+  "description": "FirstNdejs",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
